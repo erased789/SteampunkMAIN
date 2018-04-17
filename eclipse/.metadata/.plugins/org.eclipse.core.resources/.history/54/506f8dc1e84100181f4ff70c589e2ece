@@ -1,0 +1,5 @@
+package com.kinpai.steampunk.items;
+
+public class ItemBase {
+
+}

@@ -1,0 +1,5 @@
+package com.kinpai.steampunk.util.handlers;
+
+public class RegistryHandler {
+
+}

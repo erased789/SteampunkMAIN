@@ -1,0 +1,5 @@
+package com.kinpai.steampunk.proxy;
+
+public class ClientProxy {
+
+}

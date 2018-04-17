@@ -1,0 +1,7 @@
+package com.kinpai.steampunk.proxy;
+
+public class CommonProxy 
+{
+	public void registerItemRenderer(Item item, int meta, String id) {}
+
+}
